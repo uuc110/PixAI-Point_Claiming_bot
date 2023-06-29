@@ -34,7 +34,7 @@ python main.py
 
 ## Screenshots
 
-![App Screenshot](Screenshot\ss.png)
+![App Screenshot](Screenshot\screenshot.png)
 
 ## Contributing
 Contributions are welcome! If you would like to contribute to the project, please follow these guidelines:
