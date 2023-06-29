@@ -32,6 +32,10 @@ cd pixai-automation-script
 python main.py
 ```
 
+## Screenshots
+
+![App Screenshot](Screenshot\ss.png)
+
 ## Contributing
 Contributions are welcome! If you would like to contribute to the project, please follow these guidelines:
 - Fork the repository and create a new branch for your feature or bug fix.
