@@ -48,5 +48,8 @@ Contributions are welcome! If you would like to contribute to the project, pleas
 
 If you have any feedback, please make a issue and give your feedback there😄
 
+## Disclaimer
+This project is intended for educational purposes and self-learning. Please use this script responsibly and do not misuse it for any illegal activities or unauthorized access.
+
 
 
