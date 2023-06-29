@@ -25,13 +25,9 @@ git clone https://github.com/uuc110/PixAI-Point_Claiming_bot
 ```
 cd pixai-automation-script
 ```
-3. Install the required dependencies:
-```
-pip install -r requirements.txt
-```
-4. Export your browser's password data to a CSV file named `logic.csv` with the following columns: `email` and `password`. Remove any unnecessary columns from the exported CSV file, keeping only these two columns.
+3. Export your browser's password data to a CSV file named `logic.csv` with the following columns: `email` and `password`. Remove any unnecessary columns from the exported CSV file, keeping only these two columns.
 
-5. Run the script:
+4. Run the script:
 ```
 python main.py
 ```
